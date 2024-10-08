@@ -7,20 +7,20 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 # AppxRemoved │ OgnitorenKs
 
-<details><B><summary> • English guide</B></summary>
+<details><B><summary> English guide</B></summary>
 
 - AppxRemoved scans and categorizes the appx applications installed on your system, and then lists the desired applications for you to delete.
 - Some of the applications installed on the system are marked as unremovable by Microsoft. However, the application allows you to delete these applications as well. 
 - In addition, it is added to regedit with the instructions shared by Microsoft so that it does not reinstall the deleted applications through the update channel.
 - Be sure to restart the system after the deletions, the script will be run to clean up the junk files after the system is booted.
 
-#### About warnings from antivirus programs
+### About warnings from antivirus programs
 
 - Antiviruses may warn when removing the NSudo authorization tool and system applications.
 - Multiple deletions may alert antivirus programs.
 - The source code of the work is open, you can review it. If you do not trust it, please do not use it.
 
-#### How to use it?
+### How to use it?
 
 - After running the application, you will be prompted and informed. It will be enough to press any key to pass this screen.
 
@@ -43,20 +43,20 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 </details>
 
-<details><B><summary> • Türkçe kılavuz</B></summary>
+<details><B><summary> Türkçe kılavuz</B></summary>
 
 - AppxRemoved uygulaması sisteminizde yüklü olan appx uygulamaları tarayıp, sınıflandırdıktan sonra istenilen uygulamaları silmeniz için listeleyerek size sunar.
 - Sistemde yüklü olan uygulamaların belli bir kısmı Microsoft tarafından kaldırılmaz olarak işaretlenmiştir. Ancak uygulama bu uygulamaları da silmenize olanak sağlamaktadır. 
 - Ayrıca silinen uygulamaları güncelleme kanalıyla yeniden yüklememesi için Microsoft'un paylaştığı yönergelerle regedit içerisine ekleme yapılır.
 - Yaptığınız silme işlemlerinden sonra sistemi mutlaka yeniden başlatınız, sistem açıldıktan sonra çöp dosyaları temizlemesi için komut dosyası çalıştırılacaktır.
 
-#### Antivirüs programlarının uyarıları hakkında
+### Antivirüs programlarının uyarıları hakkında
 
 - NSudo yetkilendirme aracı ve sistem uygulamalarını kaldırırken antivirüsler uyarı verebilir.
 - Çoklu silme işleminde kaynaklı antivirüs programları uyarı verebilir.
 - Çalışmanın kaynak kodları açıktır, inceleyebilirsiniz. Buna rağmen güvenmiyorsanız lütfen uygulamayı kullanmayın.
 
-#### Nasıl kullanılır?
+### Nasıl kullanılır?
 
 - Uygulamayı çalıştırdıktan sonra uyarı ve bilgilendirme yapılır. Bu ekranı geçmek için herhangi bir tuşa basmanız yeterli olacaktır.
 
