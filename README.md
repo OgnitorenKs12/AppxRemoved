@@ -20,7 +20,7 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 - Multiple deletions may alert antivirus programs.
 - The source code of the work is open, you can review it. If you do not trust it, please do not use it.
 
-#### Nasıl kullanılır?
+#### How to use it?
 
 - After running the application, you will be prompted and informed. It will be enough to press any key to pass this screen.
 
