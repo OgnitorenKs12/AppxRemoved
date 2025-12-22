@@ -7,7 +7,7 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 # AppxRemoved │ OgnitorenKs
 
-<details><B><summary> English guide</B></summary>
+<details><summary><B> English guide</B></summary>
 
 - AppxRemoved scans and categorizes the appx applications installed on your system, and then lists the desired applications for you to delete.
 - Some of the applications installed on the system are marked as unremovable by Microsoft. However, the application allows you to delete these applications as well. 
@@ -43,7 +43,7 @@ All rights of the work belong to Hüseyin UZUNYAYLA. It is forbidden to develop,
 
 </details>
 
-<details><B><summary> Türkçe kılavuz</B></summary>
+<details><summary><B> Türkçe kılavuz</B></summary>
 
 - AppxRemoved uygulaması sisteminizde yüklü olan appx uygulamaları tarayıp, sınıflandırdıktan sonra istenilen uygulamaları silmeniz için listeleyerek size sunar.
 - Sistemde yüklü olan uygulamaların belli bir kısmı Microsoft tarafından kaldırılmaz olarak işaretlenmiştir. Ancak uygulama bu uygulamaları da silmenize olanak sağlamaktadır. 
